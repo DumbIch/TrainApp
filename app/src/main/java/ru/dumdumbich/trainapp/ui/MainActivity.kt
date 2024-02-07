@@ -1,4 +1,4 @@
-package ru.dumdumbich.trainapp
+package ru.dumdumbich.trainapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
